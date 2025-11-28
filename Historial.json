@@ -1,0 +1,30 @@
+[
+  {
+    "base": "USD",
+    "target": "BRL",
+    "valorIngresado": 300.0,
+    "valorConvertido": 1605.06,
+    "fechaHora": "2025-11-28 18:49:30"
+  },
+  {
+    "base": "ARS",
+    "target": "USD",
+    "valorIngresado": 100.0,
+    "valorConvertido": 0.06906077348066297,
+    "fechaHora": "2025-11-28 18:54:25"
+  },
+  {
+    "base": "USD",
+    "target": "BRL",
+    "valorIngresado": 400.0,
+    "valorConvertido": 2140.08,
+    "fechaHora": "2025-11-28 18:54:29"
+  },
+  {
+    "base": "USD",
+    "target": "ARS",
+    "valorIngresado": 1000.0,
+    "valorConvertido": 1448000.0,
+    "fechaHora": "2025-11-28 18:54:36"
+  }
+]
